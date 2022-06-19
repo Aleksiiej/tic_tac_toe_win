@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1633641617 source:c:\users\aleks\desktop\programy codeblocks\kolko i krzyzyk obiektowo\main.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"tablica.h"
+
+1633642090 c:\users\aleks\desktop\programy codeblocks\kolko i krzyzyk obiektowo\tablica.h
+	<iostream>
+
+1633641891 source:c:\users\aleks\desktop\programy codeblocks\kolko i krzyzyk obiektowo\tablica.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	"tablica.h"
+
+1636973664 source:c:\users\aleksander ramut\desktop\xo\main.cpp
+	"tablica.h"
+
+1636977339 c:\users\aleksander ramut\desktop\xo\tablica.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+
+1637006773 source:c:\users\aleksander ramut\desktop\xo\tablica.cpp
+	"tablica.h"
+
+1638950407 source:c:\users\aleksander ramut\desktop\codeblocks\xo\main.cpp
+	"tablica.h"
+
+1638951142 c:\users\aleksander ramut\desktop\codeblocks\xo\tablica.h
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	<ctime>
+	<cstdio>
+
+1638951089 source:c:\users\aleksander ramut\desktop\codeblocks\xo\tablica.cpp
+	"tablica.h"
+
